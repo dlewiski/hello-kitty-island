@@ -1,0 +1,19 @@
+h1{
+  color: yellow
+}
+h2{
+  color: #ffd747
+}
+h3{
+  color: #ffd747
+}
+body{
+  background: brown;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+  box-shadow: 5px 10px 10px grey;
+}
